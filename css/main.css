@@ -1396,7 +1396,9 @@ button:focus {
   padding-top: 130px;
   background: #180e29; }
   #footer-Content .footer-logo img {
-    padding-top: 70px; }
+    padding-top: 70px;
+    float: right;
+   }
   #footer-Content .form-control:focus {
     outline: none;
     box-shadow: none;
